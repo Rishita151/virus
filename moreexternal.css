@@ -11,7 +11,7 @@ h1{
 
 h2{
   color: #f6d743;
-  
+
 
 }
 
@@ -32,9 +32,9 @@ h2{
 .giphy{
   position: relative;
   top: : 1000px;
-  left:500px;
-  width: 100px;
-  height: 500px;
+  left: 300px;
+  width: 50%;
+  height: 50%;
 
 }
 
@@ -46,10 +46,11 @@ h2{
  .top{
 text-align: center;
 
-background-color: #f40552;
-  font-family: "Comic Sans MS";
 
-  height: 800px;
+color: #f6d743;
+
+
+  height:200px;
 
 }
 
@@ -57,18 +58,20 @@ background-color: #f40552;
 .bottom{
 
 text-align: center;
-  background-color: #649d66;
-  font-family: "Comic Sans MS"}
+  background-color: #06623b;
+  color: #f6d743;
+
+  }
 
 
   .page2top{
     background-color: #43d8c9;
-    font-family: "Comic Sans MS"
+
 
   }
 
   .page2bottom{
     background-color: #af8baf;
-    font-family: "Comic Sans MS"
+
 
   }
