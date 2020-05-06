@@ -1,0 +1,74 @@
+body{
+margin: 0;
+background-color: #06623b;
+}
+
+h1{
+
+  color: #f6d743;
+  font-weight: bolder;
+}
+
+h2{
+  color: #f6d743;
+  
+
+}
+
+.header{
+  text-align: center;
+  color: #f6d743;
+  height: 40px;
+
+
+}
+.virusimage
+ {top:10px;
+     left: 10px;
+   width: 60px;
+   height: 60px;
+}
+
+.giphy{
+  position: relative;
+  top: : 1000px;
+  left:500px;
+  width: 100px;
+  height: 500px;
+
+}
+
+.giphylist{
+  width: 200px;
+  height: 200px;
+
+}
+ .top{
+text-align: center;
+
+background-color: #f40552;
+  font-family: "Comic Sans MS";
+
+  height: 800px;
+
+}
+
+
+.bottom{
+
+text-align: center;
+  background-color: #649d66;
+  font-family: "Comic Sans MS"}
+
+
+  .page2top{
+    background-color: #43d8c9;
+    font-family: "Comic Sans MS"
+
+  }
+
+  .page2bottom{
+    background-color: #af8baf;
+    font-family: "Comic Sans MS"
+
+  }
