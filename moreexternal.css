@@ -10,18 +10,18 @@ h1{
 }
 
 h2{
-  color: #f6d743;
-
-
-}
-
-.header{
+  background-color: #58b4ae;
+  font-size:2rem;
   text-align: center;
-  color: #f6d743;
-  height: 40px;
+  color:#f6d743;
+    width:500px;
+  align-items: center;
+
+
 
 
 }
+
 .virusimage
  {top:10px;
      left: 10px;
@@ -39,9 +39,8 @@ h2{
 }
 
 .giphylist{
-  width: 200px;
-  height: 200px;
-
+  width: 300px;
+  height: 300px;
 }
  .top{
 
@@ -63,22 +62,5 @@ color: #6f0000;
 text-align: center;
   background-color: #06623b;
   color: #f6d743;
-
-  }
-
-
-  .page2top{
-    background-color: #43d8c9;
-
-
-  }
-
-  .page2bottom{
-    background-color: #af8baf;
-
-  }
-
-  #Para2{
-    font-size: 55px;
 
   }
