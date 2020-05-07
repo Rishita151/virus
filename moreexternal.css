@@ -1,11 +1,11 @@
 body{
 margin: 0;
-background-color: #06623b;
+background-color: #fe9801;
 }
 
 h1{
 
-  color: #f6d743;
+  color: #f4eec7;
   font-weight: bolder;
 }
 
@@ -49,7 +49,7 @@ h2{
 text-align: center;
 
 
-color: #f6d743;
+color: #6f0000;
 
 
   height:auto;
@@ -58,7 +58,7 @@ color: #f6d743;
 
 
 .bottom{
-  position: absolute;
+
 
 text-align: center;
   background-color: #06623b;
@@ -76,5 +76,9 @@ text-align: center;
   .page2bottom{
     background-color: #af8baf;
 
+  }
+
+  #Para2{
+    font-size: 55px;
 
   }
