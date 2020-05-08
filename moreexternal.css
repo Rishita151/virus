@@ -1,6 +1,7 @@
 body{
 margin: 0;
 background-color: #fe9801;
+font-family: cursive;
 }
 
 h1{
@@ -12,14 +13,8 @@ h1{
 h2{
   background-color: #58b4ae;
   font-size:2rem;
-  text-align: center;
   color:#f6d743;
-    width:500px;
-  align-items: center;
-
-
-
-
+  text-align: center;
 }
 
 .virusimage
@@ -45,7 +40,7 @@ h2{
  .top{
 
 
-text-align: center;
+text-align:center;
 
 
 color: #6f0000;
@@ -64,3 +59,22 @@ text-align: center;
   color: #f6d743;
 
   }
+
+.container-fluid{
+  padding: 1% 1%;
+}
+.navbar-brand{
+
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+
+.btn-primary {
+  margin-left: 10%;
+}
+
+#Videos{
+  padding: 7% 15%;
+}
