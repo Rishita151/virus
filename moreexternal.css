@@ -34,29 +34,28 @@ h2{
 }
 
 .giphylist{
-  width: 300px;
+
+
   height: 300px;
+  float: left;
+  width: 300px;
+  padding: 10px;
+
 }
  .top{
-
-
+background-color: #035aa6
 text-align:center;
-
-
-color: #6f0000;
-
-
-  height:auto;
+color: #9a1f40;
+height:auto;
 
 }
 
 
 .bottom{
 
-
 text-align: center;
   background-color: #06623b;
-  color: #f6d743;
+  color: #00909e;
 
   }
 
