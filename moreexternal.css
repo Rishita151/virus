@@ -33,6 +33,7 @@ h2{
   font-size:2rem;
   color:#ffff;
   text-align:center;
+  
 
 }
 .giphylist{
@@ -97,4 +98,9 @@ text-align: center;
 
 #Videos{
   padding: 7% 15%;
+}
+
+.row{
+  margin-left: 0px;
+  margin-right: 0px;
 }
