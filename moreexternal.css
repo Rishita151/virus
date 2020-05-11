@@ -1,32 +1,50 @@
-body{
-margin: 0;
-background-color: #fe9801;
 
-}
+
 
 .navbar-header {
     float: left;
     padding: 5px;
     text-align: center;
     width: 100%;
-    
+
 }
 .navbar-brand {float:none;}
 
+#Para1oncorona{
+  background-color:#0779e4;
+  font-color:#ffff;
 
-h1{
+}
 
-  color: #f4eec7;
-  font-weight: bolder;
+#footer{
+  background-color:#ffff;
+  text-align: center;
+  font-color:#ffff;
+  font-size:2rem;
+}
+
+.social-icon{
+  margin: 20px 10px;
+
 }
 
 h2{
-  background-color: #58b4ae;
+    background-color: #0779e4;
   font-size:2rem;
-  color:#f6d743;
-  text-align: center;
-}
+  color:#ffff;
+  text-align:center;
 
+}
+.giphylist{
+
+
+  height: 300px;
+
+  width: 300px;
+
+  position: static;
+
+}
 .virusimage
  {top:10px;
      left: 10px;
@@ -40,24 +58,17 @@ h2{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    margin-top: 80px;
+    margin-top: 0px;
 
 }
 
-.giphylist{
 
-
-  height: 300px;
-  float: left;
-  width: 300px;
-  padding: 10px;
-
-}
  .top{
-background-color: #035aa6
+
 text-align:center;
-color: #9a1f40;
+color: #ffff;
 height:auto;
+
 
 }
 
