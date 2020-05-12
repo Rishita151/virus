@@ -1,1 +1,1 @@
-alert("Alert: Corona Pandemic. Follow advisory.");
+alert("Alert: Corona Pandemic. Follow MHRD Advisory.");
